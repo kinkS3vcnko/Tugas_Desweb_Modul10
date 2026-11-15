@@ -1,0 +1,216 @@
+
+#wrap {
+    width: 1000px;
+    height: 800px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+
+#header {
+    background-image: url('header.JPG');
+    background-size: cover;         
+    background-position: center;     
+    background-repeat: no-repeat;
+    
+    border-bottom-right-radius: 50px;
+    width: 730px;
+    height: 300px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    float: right;
+}
+
+#judul {
+    font-size: 50px;
+    text-align: right;
+    padding: 200px 40px 0 0;
+}
+
+#judul a {
+    color: white;
+    text-decoration: none;
+}
+
+#judul a:hover {
+    color: grey;
+}
+
+.desc {
+    font-size: 30px;
+    color: white;
+    text-align: right;
+    padding: 0 40px 0 0;
+}
+
+
+#menu ul {
+    float: right;
+    background: rgb(114, 0, 0);
+    padding: 0;
+    position: relative;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    list-style: none;
+    width: 730px;
+}
+
+#menu ul:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+#menu ul li {
+    float: left;
+}
+
+#menu ul li:hover {
+    background: rgb(114, 0, 0);
+}
+
+#menu ul li a {
+    display: block;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+#menu ul li:hover a {
+    color: white;
+}
+
+#menu ul li:hover > ul {
+    display: block;
+}
+
+#menu ul ul {
+    background: rgb(114, 0, 0);
+    position: absolute;
+    padding: 0;
+    top: 100%;
+    display: none;
+    width: auto;
+}
+
+#menu ul ul li {
+    float: none;
+    position: relative;
+}
+
+#menu ul ul li a {
+    padding: 10px 30px;
+    color: white;
+}
+
+#menu ul ul li a:hover {
+    background: rgb(114, 0, 0);
+    color: white;
+}
+
+#menu ul ul ul {
+    position: absolute;
+    left: 100%;
+    top: 0;
+}
+
+#kiri {
+    border-top-left-radius: 50px;
+    background-color: rgb(9, 0, 41);
+    width: 250px;
+    height: auto;
+    margin: 0 0 20px;
+    float: left;
+    list-style: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+
+#kiri ul {
+    margin: 0 0 20px 20px;
+    padding: 0;
+    list-style: none;
+    width: 200px;
+}
+
+#kiri li {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#kiri h2 {
+    margin: 0;
+    padding: 5px 12px;
+    color: white;
+    font-size: 20px;
+    background: rgb(114, 0, 0);
+}
+
+#kiri a {
+    display: block;
+    padding: 3px 10px;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    border-bottom: 1px dotted rgb(114, 0, 0);
+}
+
+#kiri a:hover {
+    background: rgb(114, 0, 0);
+    color: white;
+}
+
+
+#konten {
+    background-color: white;
+    width: 690px;
+    height: auto;
+    margin: 0 0 20px;
+    padding: 20px;
+    float: right;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+
+.posttitle {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    color: rgb(114, 0, 0);
+}
+
+.posttitle a {
+    text-decoration: none;
+}
+
+.konten {
+    margin: 0 20px;
+    text-align: justify;
+  
+}
+
+b a {
+    color: rgb(114, 0, 0);
+    text-decoration: none;
+}
+
+img {
+    width: 30%;
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+}
+
+
+#footer {
+    background-color: rgb(114, 0, 0);
+    padding: 20px 0 0 0;
+    width: 1000px;
+    height: 90px;
+    clear: both;
+    margin: 20px 0;
+    text-align: center;
+    color: white;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
