@@ -39,15 +39,15 @@ Kumpulan-Karya
 └── README.md
 ```
 
-| Nama Berkas | Deskripsi Isi                     |
+| Nama Folder | Deskripsi Isi                     |
 |-------------|-----------------------------------|
-| Modul 2.pdf | Dokumen laporan praktikum Modul 2 |
-| Modul 3.pdf | Dokumen laporan praktikum Modul 3 |
-| Modul 4.pdf | Dokumen laporan praktikum Modul 4 |
-| Modul 5.pdf | Dokumen laporan praktikum Modul 5 |
-| Modul 6.pdf | Dokumen laporan praktikum Modul 6 |
-| Modul 8.pdf | Dokumen laporan praktikum Modul 8 |
-| Modul 9.pdf | Dokumen laporan praktikum Modul 9 |
+| Modul 2     | Dokumen laporan praktikum Modul 2 |
+| Modul 3     | Dokumen laporan praktikum Modul 3 |
+| Modul 4     | Dokumen laporan praktikum Modul 4 |
+| Modul 5     | Dokumen laporan praktikum Modul 5 |
+| Modul 6     | Dokumen laporan praktikum Modul 6 |
+| Modul 8     | Dokumen laporan praktikum Modul 8 |
+| Modul 9     | Dokumen laporan praktikum Modul 9 |
 | README.md   | Berkas informasi dan panduan repositori |
 
 ## 🛠️ Perangkat Lunak Pendukung
