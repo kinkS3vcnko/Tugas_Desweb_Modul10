@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # 📂 Arsip Tugas Praktikum Desain Web
 
-
 ## 👨‍🎓 Profil Mahasiswa
 
 | Informasi       | Detail                                      |
@@ -159,5 +158,4 @@ Seluruh berkas repositori ini dapat diakses melalui tautan berikut:
 
 ## 🏁 Penutup
 =======
-.
->>>>>>> 0fddcf2542b1592b1d2cce762ffe16dda02673bb
+
