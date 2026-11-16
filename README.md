@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📂 Arsip Tugas Praktikum Desain Web
 
 ## 👨‍🎓 Profil Mahasiswa
