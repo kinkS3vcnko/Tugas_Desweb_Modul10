@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📂 Arsip Tugas Praktikum Desain Web
 
 
@@ -157,3 +158,6 @@ Seluruh berkas repositori ini dapat diakses melalui tautan berikut:
 👉 **https://github.com/kinkS3vcnko/Tugas_Desweb_Modul10.git**
 
 ## 🏁 Penutup
+=======
+.
+>>>>>>> 0fddcf2542b1592b1d2cce762ffe16dda02673bb
