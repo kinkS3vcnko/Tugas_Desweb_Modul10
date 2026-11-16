@@ -16,7 +16,7 @@
 
 Repositori ini menghimpun seluruh berkas laporan praktikum untuk mata kuliah Desain Web mulai dari Modul 2 hingga Modul 9. Penyusunan repositori ini merupakan bagian dari pemenuhan tugas **Modul 10: Git**, yang berfokus pada pembuatan repositori lokal, pencatatan riwayat perubahan berkas memakai Git, serta pengunggahan proyek ke repositori daring di GitHub.
 
-Pada dasarnya, Git berfungsi sebagai sistem kontrol versi (*version control system*) yang membantu pengembang mengelola pembaruan kode sumber maupun mempermudah kerja sama tim. Melalui Git, seluruh riwayat modifikasi—mulai dari detail perubahan, waktu pelaksanaan, hingga pihak yang melakukannya—dapat terekam secara sistematis.
+Pada dasarnya, Git berfungsi sebagai sistem kontrol versi (*version control system*) yang membantu pengembang mengelola pembaruan kode sumber maupun mempermudah kerja sama tim. Melalui Git, seluruh riwayat modifikasi mulai dari detail perubahan, waktu pelaksanaan, hingga pihak yang melakukannya dapat terekam secara sistematis.
 
 ## 🎯 Sasaran Pembelajaran
 
